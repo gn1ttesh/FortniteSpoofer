@@ -5,8 +5,10 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows_10|11-0078d7?style=for-the-badge&logo=windows11)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/44cf0d6f-ca5c-4f08-9e8d-c4a36264a7c6" width="65%" alt="FortniteSpoofer Interface">
+  <img src="https://github.com/user-attachments/assets/69554908-044e-45e4-a09c-5769077b520d" width="65%" alt="FortniteSpoofer Interface">
 </div>
+
+
 
 **Forensic-grade hardware identity research platform** for security analysis and anti-cheat vulnerability studies. Provides temporary hardware abstraction for penetration testing environments.
 
